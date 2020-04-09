@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5d7f245c-d37e-462c-8307-d26b235a9f14" name="默认更改列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+    <option name="PARALLEL_COMPILATION" value="true" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="128" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="F:\java\maven_repo" />
+        <option name="mavenHome" value="F:/java/apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="F:\java\apache-maven-3.3.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectId" id="1ZyR49XiepgElZ4haBzXQvKaI55" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="11" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/cloud-config-center-3344/src/main/resources" />
+    <property name="project.structure.last.edited" value="模块" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.7158019" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.knx.springcloud.controller" />
+      <recent name="com.knx.springcloud" />
+      <recent name="com.knx.springcloud.service" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\javaproject\springcloud\cloud-config-center-3344\src\main\resources" />
+      <recent name="F:\javaproject\springcloud\cloud-gateway-gateway9527\src\main\resources" />
+      <recent name="F:\javaproject\springcloud\cloud-consumer-hystrix-dashboard9001\src\main\resources" />
+      <recent name="F:\javaproject\springcloud\cloud-consumer-feign-hystrix-order80\src\main\java" />
+      <recent name="F:\javaproject\springcloud\cloud-consumer-feign-hystrix-order80\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.GatewayMain9527">
+    <configuration name="EurekaMain7001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.knx.springcloud.EurekaMain7001" />
+      <module name="cloud-eureka-server7001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.knx.springcloud.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GatewayMain9527" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.knx.springcloud.GatewayMain9527" />
+      <module name="cloud-gateway-gateway9527" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.knx.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HystrixDashboardMain9001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.knx.springcloud.HystrixDashboardMain9001" />
+      <module name="cloud-consumer-hystrix-dashboard9001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.knx.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaymentMain8001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.knx.springcloud.PaymentMain8001" />
+      <module name="cloud-provider-payment8001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.knx.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaymentMain8002" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.knx.springcloud.PaymentMain8002" />
+      <module name="cloud-provider-payment8002" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.knx.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.EurekaMain7001" />
+      <item itemvalue="Application.HystrixDashboardMain9001" />
+      <item itemvalue="Application.PaymentMain8001" />
+      <item itemvalue="Application.GatewayMain9527" />
+      <item itemvalue="Application.PaymentMain8002" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GatewayMain9527" />
+        <item itemvalue="Application.PaymentMain8002" />
+        <item itemvalue="Application.PaymentMain8001" />
+        <item itemvalue="Application.EurekaMain7001" />
+        <item itemvalue="Application.HystrixDashboardMain9001" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\hhan\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5d7f245c-d37e-462c-8307-d26b235a9f14" name="默认更改列表" comment="" />
+      <created>1585809153633</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585809153633</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="634" y="120" key="#OrderMain80" timestamp="1585898999545">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="634" y="120" key="#OrderMain80/1920.287.1440.860/0.0.1920.1040@0.0.1920.1040" timestamp="1585898999545" />
+    <state x="414" y="172" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585899913733">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="172" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.287.1440.860/0.0.1920.1040@0.0.1920.1040" timestamp="1585899913733" />
+    <state x="775" y="317" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586330945444">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="775" y="317" key="#com.intellij.fileTypes.FileTypeChooser/1920.287.1440.860/0.0.1920.1040@0.0.1920.1040" timestamp="1586330945444" />
+    <state x="721" y="164" key="#com.intellij.ide.util.MemberChooser" timestamp="1586400610774">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="721" y="164" key="#com.intellij.ide.util.MemberChooser/1920.287.1440.860/0.0.1920.1040@0.0.1920.1040" timestamp="1586400610774" />
+    <state x="773" y="340" width="1012" height="695" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1585901894665">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="773" y="340" width="1012" height="695" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/1920.287.1440.860/0.0.1920.1040@0.0.1920.1040" timestamp="1585901894665" />
+    <state x="509" y="439" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1586331348200">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="509" y="439" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/1920.287.1440.860/0.0.1920.1040@0.0.1920.1040" timestamp="1586331348200" />
+    <state x="627" y="213" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1586334762644">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="627" y="213" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1920.287.1440.860/0.0.1920.1040@0.0.1920.1040" timestamp="1586334762644" />
+    <state x="627" y="213" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1585914107891">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="627" y="213" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/1920.287.1440.860/0.0.1920.1040@0.0.1920.1040" timestamp="1585914107891" />
+    <state x="375" y="197" key="#项目结构" timestamp="1586410566405">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="375" y="197" key="#项目结构/1920.287.1440.860/0.0.1920.1040@0.0.1920.1040" timestamp="1586410566405" />
+    <state x="2132" y="307" key="#项目结构/1920.287.1440.860/0.0.1920.1040@1920.287.1440.860" timestamp="1585809172980" />
+    <state width="423" height="558" key="DebuggerActiveHint" timestamp="1586409756429">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="423" height="558" key="DebuggerActiveHint/1920.287.1440.860/0.0.1920.1040@0.0.1920.1040" timestamp="1586409756429" />
+    <state x="690" y="222" key="FileChooserDialogImpl" timestamp="1586410111573">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="518" y="184" key="FileChooserDialogImpl/0.0.1440.860@0.0.1440.860" timestamp="1586079815212" />
+    <state x="691" y="223" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1586150602388" />
+    <state x="690" y="222" key="FileChooserDialogImpl/1920.287.1440.860/0.0.1920.1040@0.0.1920.1040" timestamp="1586410111573" />
+    <state width="1867" height="269" key="GridCell.Tab.0.bottom" timestamp="1586409918678">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="269" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1586079816501" />
+    <state width="1867" height="269" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586150609345" />
+    <state width="1867" height="269" key="GridCell.Tab.0.bottom/1920.287.1440.860/0.0.1920.1040@0.0.1920.1040" timestamp="1586409918678" />
+    <state width="1867" height="269" key="GridCell.Tab.0.center" timestamp="1586409918678">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="269" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1586079816501" />
+    <state width="1867" height="269" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586150609345" />
+    <state width="1867" height="269" key="GridCell.Tab.0.center/1920.287.1440.860/0.0.1920.1040@0.0.1920.1040" timestamp="1586409918678" />
+    <state width="1867" height="269" key="GridCell.Tab.0.left" timestamp="1586409918678">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="269" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1586079816501" />
+    <state width="1867" height="269" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586150609345" />
+    <state width="1867" height="269" key="GridCell.Tab.0.left/1920.287.1440.860/0.0.1920.1040@0.0.1920.1040" timestamp="1586409918678" />
+    <state width="1867" height="269" key="GridCell.Tab.0.right" timestamp="1586409918678">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="269" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1586079816501" />
+    <state width="1867" height="269" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586150609345" />
+    <state width="1867" height="269" key="GridCell.Tab.0.right/1920.287.1440.860/0.0.1920.1040@0.0.1920.1040" timestamp="1586409918678" />
+    <state width="1867" height="269" key="GridCell.Tab.1.bottom" timestamp="1586409918678">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="269" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586150609345" />
+    <state width="1867" height="269" key="GridCell.Tab.1.bottom/1920.287.1440.860/0.0.1920.1040@0.0.1920.1040" timestamp="1586409918678" />
+    <state width="1867" height="269" key="GridCell.Tab.1.center" timestamp="1586409918678">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="269" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586150609345" />
+    <state width="1867" height="269" key="GridCell.Tab.1.center/1920.287.1440.860/0.0.1920.1040@0.0.1920.1040" timestamp="1586409918678" />
+    <state width="1867" height="269" key="GridCell.Tab.1.left" timestamp="1586409918678">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="269" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586150609345" />
+    <state width="1867" height="269" key="GridCell.Tab.1.left/1920.287.1440.860/0.0.1920.1040@0.0.1920.1040" timestamp="1586409918678" />
+    <state width="1867" height="269" key="GridCell.Tab.1.right" timestamp="1586409918678">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="269" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586150609345" />
+    <state width="1867" height="269" key="GridCell.Tab.1.right/1920.287.1440.860/0.0.1920.1040@0.0.1920.1040" timestamp="1586409918678" />
+    <state x="482" y="113" key="Registry" timestamp="1585828178224">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="482" y="113" key="Registry/1920.287.1440.860/0.0.1920.1040@0.0.1920.1040" timestamp="1585828178224" />
+    <state x="192" y="0" key="SettingsEditor" timestamp="1586401339539">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="192" y="0" key="SettingsEditor/1920.287.1440.860/0.0.1920.1040@0.0.1920.1040" timestamp="1586401339539" />
+    <state x="525" y="185" width="1119" height="670" key="find.popup" timestamp="1586344656280">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="525" y="185" width="1119" height="670" key="find.popup/1920.287.1440.860/0.0.1920.1040@0.0.1920.1040" timestamp="1586344656280" />
+    <state x="253" y="124" key="new project wizard" timestamp="1586410825999">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="253" y="124" key="new project wizard/1920.287.1440.860/0.0.1920.1040@0.0.1920.1040" timestamp="1586410825999" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/cloud-provider-hystrix-payment8001/src/main/java/com/knx/springcloud/controller/PaymentController.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/cloud-consumer-feign-hystrix-order80/src/main/java/com/knx/springcloud/controller/OrderHystrixController.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/cloud-gateway-gateway9527/src/main/java/com/knx/springcloud/filter/MyLogGateWayFilter.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/springboot_platform$EurekaMain7001.ic" NAME="EurekaMain7001 Coverage Results" MODIFIED="1585904347895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.knx.springcloud.*</FILTER>
+    </SUITE>
+  </component>
+</project>

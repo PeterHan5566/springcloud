@@ -1,0 +1,23 @@
+server:
+  port: 8002
+
+spring:
+  application:
+    name: cloud-payment-service
+  datasource:
+    driver-class-name: com.microsoft.sqlserver.jdbc.SQLServerDriver
+    url: jdbc:sqlserver://127.0.0.1:1433;DatabaseName=account
+    username: sa
+    password: 123456
+eureka:
+  client:
+    register-with-eureka: true   #是否将自己注册到注册中心,集群必须设置为true才能配合ribbon使用负载均衡
+    fetch-registry: true    #是否从服务端抓取已有的注册信息
+    service-url:
+      defaultZone: http://eureka7001.com:7001/eureka,http://eureka7002.com:7002/eureka #集群
+  instance:
+    instance-id: payment8002
+    prefer-ip-address: true
+mybatis:
+  mapper-locations: classpath:mapper/*.xml
+  type-aliases-package: com.knx.springcloud.entities
