@@ -11,7 +11,7 @@ spring:
           uri: https://github.com/PeterHan5566/springcloud.git #github仓库上面的git仓库名字
           ##搜索目录
           search-paths:
-            - cloud-config-center-3344/src/main/resources/
+            - cloud-config-center-3344/src/main/resources/config/
       #读取分支
       label: master
 eureka:
